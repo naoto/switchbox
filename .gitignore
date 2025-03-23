@@ -1,0 +1,4 @@
+.bundle
+vender
+database/switchbox.db
+.env
