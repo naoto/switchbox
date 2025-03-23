@@ -1,4 +1,5 @@
 .bundle
 vender
+vendor
 database/switchbox.db
 .env
