@@ -22,7 +22,7 @@ get '/' do
       humidity: record[2],
       co2: record[3],
       created_at: record[4]
-    }
+    }.to_json
   else
     status 404
     { error: 'Record Not Found' }.to_json
