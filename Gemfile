@@ -8,3 +8,4 @@ gem 'sqlite3'
 gem 'sinatra'
 gem 'puma'
 gem "rackup", "~> 2.2"
+gem 'gruff'
